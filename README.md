@@ -1,4 +1,4 @@
-# Masterarbeit: Adversary Emulation zum Vergleich des Sicherheitsniveaus verschiedener Systemkonfigurationen und-versionen in Windows-Umgebungen
+# Masterarbeit: Adversary Emulation zum Vergleich des Sicherheitsniveaus verschiedener Systemkonfigurationen und -versionen in Windows-Umgebungen
 
 Dieses Repository enthält die prototypische Implementierung meiner Masterarbeit. Die Implementierung verwendet das Adversary Emulation Tool Caldera.
 
