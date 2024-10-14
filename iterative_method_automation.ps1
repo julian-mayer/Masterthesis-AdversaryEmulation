@@ -7,7 +7,7 @@ param(
 )
 
 Import-Module $PSScriptRoot\caldera_api.psm1 -Force
-Import-Module $PSScriptRoot\Combination_adjusted.psm1 -Force
+Import-Module $PSScriptRoot\combination_adjusted.psm1 -Force
 
 $script:TargetSystemIP = ""
 $script:AttackerSystemIP = ""
